@@ -2,7 +2,7 @@
 
 ### Hi, I'm Mike.
 
-I work as a `systems analyst`/`code monkey 🐵`/`.*` at @TheFridayInstitute |
+I work as a `systems analyst`/`code monkey 🐵`/`.*` at [@TheFridayInstitute](https://github.com/TheFridayInstitute) |
 [The Friday Institute](https://www.fi.ncsu.edu/) 🐺.
 
 My current project(s') focus is on data collection and analysis using front-end and
@@ -42,4 +42,4 @@ back-end technologies.
     Lambda services.
 -   `node.js`, `nginx`, and other server-related things.
 
-_🎉Thanks to @devicon for the beautiful icons you see above!_
+_🎉Thanks to [@devicons](https://github.com/devicons) for the beautiful icons you see above!_
