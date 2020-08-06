@@ -1,7 +1,3 @@
----
-title: About me
----
-
 <link rel="stylesheet" type="text/css" media="all" href="styles/styles.css" />
 
 ### Hi, I'm Mike.
@@ -42,8 +38,8 @@ back-end technologies.
 -   Complier design and optimization 🛠; some of that work can be seen [here]() and
     [here]()
 -   Immutable data structure implementations in both Python and C++.
--   Data collection and processing with AWS. Particularly with their Athena, Glue, and Lambda
-    services.
+-   Data collection and processing with AWS. Particularly with their Athena, Glue, and
+    Lambda services.
 -   `node.js`, `nginx`, and other server-related things.
 
 _🎉Thanks to @devicon for the beautiful icons you see above!_
