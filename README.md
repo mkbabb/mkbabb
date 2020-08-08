@@ -16,29 +16,28 @@ back-end technologies.
 &nbsp;
 
 <div>
-    <img src="assets/icons/python/python-original.svg" height="64"/>
+    <img src="https://raw.githubusercontent.com/mkbabb/mkbabb/master/assets/icons/python/python-original.svg" height="64"/>
     &nbsp;
     &nbsp;
-    <img src="assets/icons/cplusplus/cplusplus-original.svg" height="64"/>
+    <img src="https://raw.githubusercontent.com/mkbabb/mkbabb/master/assets/icons/cplusplus/cplusplus-original.svg" height="64"/>
     &nbsp;
     &nbsp;
-    <img src="assets/icons/typescript/typescript-original.svg" height="64"/>
+    <img src="https://raw.githubusercontent.com/mkbabb/mkbabb/master/assets/icons/typescript/typescript-original.svg" height="64"/>
     &nbsp;
     &nbsp;
-    <img src="assets/icons/sass/sass-original.svg" height="64"/>
+    <img src="https://raw.githubusercontent.com/mkbabb/mkbabb/master/assets/icons/sass/sass-original.svg" height="64"/>
     &nbsp;
     &nbsp;
-    <img src="assets/icons/php/php-original.svg" height="64"/>
+    <img src="https://raw.githubusercontent.com/mkbabb/mkbabb/master/assets/icons/php/php-original.svg" height="64"/>
     &nbsp;
     &nbsp;
-    <img src="assets/icons/mysql/mysql-original.svg" height="64"/>
+    <img src="https://raw.githubusercontent.com/mkbabb/mkbabb/master/assets/icons/mysql/mysql-original.svg" height="64"/>
     &nbsp;
     &nbsp;
-    <img src="assets/icons/apache/apache-plain.svg" height="64"/>
+    <img src="https://raw.githubusercontent.com/mkbabb/mkbabb/master/assets/icons/apache/apache-plain.svg" height="64"/>
     &nbsp;
     &nbsp;
 </div>
-
 
 &nbsp;
 
