@@ -1,8 +1,9 @@
-<link rel="stylesheet" type="text/css" media="all" href="styles/styles.css" />
+<!-- <link rel="stylesheet" type="text/css" media="all" href="styles/styles.css" /> -->
 
 ### Hi, I'm Mike.
 
-I work as a `systems analyst`/`code monkey 🐵`/`.*` at [@TheFridayInstitute](https://github.com/TheFridayInstitute) |
+I work as a `systems analyst`/`code monkey 🐵`/`.*` at
+[@TheFridayInstitute](https://github.com/TheFridayInstitute) |
 [The Friday Institute](https://www.fi.ncsu.edu/) 🐺.
 
 My current project(s') focus is on data collection and analysis using front-end and
@@ -12,15 +13,34 @@ back-end technologies.
 
 #### What I'm experienced with.
 
-<div class="container">
-    <img src="assets/icons/python/python-original.svg"/>
-    <img src="assets/icons/cplusplus/cplusplus-original.svg"/>
-    <img src="assets/icons/typescript/typescript-original.svg"/>
-    <img src="assets/icons/sass/sass-original.svg"/>
-    <img src="assets/icons/php/php-original.svg"/>
-    <img src="assets/icons/mysql/mysql-original.svg"/>
-    <img src="assets/icons/apache/apache-plain.svg"/>
+&nbsp;
+
+<div>
+    <img src="assets/icons/python/python-original.svg" height="64"/>
+    &nbsp;
+    &nbsp;
+    <img src="assets/icons/cplusplus/cplusplus-original.svg" height="64"/>
+    &nbsp;
+    &nbsp;
+    <img src="assets/icons/typescript/typescript-original.svg" height="64"/>
+    &nbsp;
+    &nbsp;
+    <img src="assets/icons/sass/sass-original.svg" height="64"/>
+    &nbsp;
+    &nbsp;
+    <img src="assets/icons/php/php-original.svg" height="64"/>
+    &nbsp;
+    &nbsp;
+    <img src="assets/icons/mysql/mysql-original.svg" height="64"/>
+    &nbsp;
+    &nbsp;
+    <img src="assets/icons/apache/apache-plain.svg" height="64"/>
+    &nbsp;
+    &nbsp;
 </div>
+
+
+&nbsp;
 
 -   `*nix`-based machines, primarily Ubuntu and macOS.
 -   Python 🐍 in conjunction with various libraries, such as Pandas, Numpy, SQLAlchemy,
@@ -42,4 +62,5 @@ back-end technologies.
     Lambda services.
 -   `node.js`, `nginx`, and other server-related things.
 
-_🎉Thanks to [@devicons](https://github.com/devicons) for the beautiful icons you see above!_
+_🎉Thanks to [@devicons](https://github.com/devicons) for the beautiful icons you see
+above!_
