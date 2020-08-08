@@ -44,7 +44,7 @@ back-end technologies.
 -   `*nix`-based machines, primarily Ubuntu and macOS.
 -   Python 🐍 in conjunction with various libraries, such as Pandas, Numpy, SQLAlchemy,
     etc.
--   GUI-based data manipulation, by way of Tableau 📊 or the Google Suite of tools 📑.
+-   GUI-based data manipulation, by way of Tableau 📊, or the Google Suite of tools 📑.
 -   Database technologies: MySQL 🐬, SQLite.
 -   TypeScript: see a sample of this by our speedtest ⏱app here:
     [`go.ncsu.edu/mbabb`](go.ncsu.edu/mbabb).
