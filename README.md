@@ -2,12 +2,12 @@
 
 ### Hi, I'm Mike.
 
-I work as a `systems analyst`/`code monkey 🐵`/`.*` at
+I'm a `systems analyst`/`code monkey 🐵`/`.*` at
 [@TheFridayInstitute](https://github.com/TheFridayInstitute) |
 [The Friday Institute](https://www.fi.ncsu.edu/) 🐺.
 
 My current project(s') focus is on data collection and analysis using front-end and
-back-end technologies.
+back-end technologies (could I be more vague?).
 
 ### What I'm using.
 
@@ -54,9 +54,10 @@ back-end technologies.
 #### What I'm learning.
 
 -   Several web-frameworks, primarily `React` and `Vue`.
--   Complier design and optimization 🛠; some of that work can be seen [here]() and
-    [here]()
+-   Complier design and optimization 🛠; some of that work can be seen
+    [here](https://github.com/mkbabb/parse-that).
 -   Immutable data structure implementations in both Python and C++.
+    [link](https://github.com/mkbabb/immutable-vector)
 -   Data collection and processing with AWS. Particularly with their Athena, Glue, and
     Lambda services.
 -   `node.js`, `nginx`, and other server-related things.
