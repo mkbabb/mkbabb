@@ -47,7 +47,7 @@ back-end technologies (could I be more vague?).
 -   GUI-based data manipulation, by way of Tableau 📊, or the Google Suite of tools 📑.
 -   Database technologies: MySQL 🐬, SQLite.
 -   TypeScript: see a sample of this by our speedtest ⏱app here:
-    [`go.ncsu.edu/mbabb`](go.ncsu.edu/mbabb).
+    [`go.ncsu.edu/mbabb`](https://www.go.ncsu.edu/mbabb).
 -   C++: used for numerical optimization and other performance critical applications.
 -   Apache2 + PHP + `.*`; for the server side of things.
 
