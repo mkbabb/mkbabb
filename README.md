@@ -7,7 +7,7 @@ I'm a `systems analyst`/`code monkey 🐵`/`.*` at
 [The Friday Institute](https://www.fi.ncsu.edu/) 🐺.
 
 My current project(s') focus is on data collection and analysis using front-end and
-back-end technologies (could I be more vague?).
+back-end technologies.
 
 ### What I'm using.
 
