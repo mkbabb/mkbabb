@@ -54,8 +54,7 @@ back-end technologies.
 #### What I'm learning.
 
 -   Several web-frameworks, primarily `React` and `Vue`.
--   Complier design and optimization 🛠; some of that work can be seen
-    [here](https://github.com/mkbabb/parse-that).
+-   Complier design and optimization 🛠.
 -   Immutable data structure implementations in both Python and C++.
     [link](https://github.com/mkbabb/immutable-vector)
 -   Data collection and processing with AWS. Particularly with their Athena, Glue, and
