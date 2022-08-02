@@ -2,12 +2,11 @@
 
 # Hi, I'm Mike.
 
-I'm a `systems analyst`/`code monkey 🐵`/`.*` at
+I'm a data scientist, programmer, and teacher at
 [@TheFridayInstitute](https://github.com/TheFridayInstitute) |
 [The Friday Institute](https://www.fi.ncsu.edu/) 🐺.
 
-My current project(s') focus is on data collection and analysis using front-end and
-back-end technologies.
+My current project(s') focus is on distributed data collection and analysis.
 
 ### What I'm using.
 
@@ -42,24 +41,22 @@ back-end technologies.
 &nbsp;
 
 -   `*nix`-based machines, primarily Ubuntu and macOS.
--   Python 🐍 in conjunction with various libraries, such as Pandas, Numpy, SQLAlchemy,
+-   Python in conjunction with various data science libraries such as Pandas, GeoPandas, Numpy, SQLAlchemy,
     etc.
--   GUI-based data manipulation, by way of Tableau 📊, or the Google Suite of tools 📑.
--   Database technologies: MySQL 🐬, SQLite.
+-   GUI-based data manipulation, by way of Tableau 📊, Matplotlib, or the Google Suite of tools 📑.
+-   Database technologies: MySQL 🐬, SQLite, Postgres.
 -   TypeScript: see a sample of this by our speedtest ⏱app here:
     [`go.ncsu.edu/mbabb`](https://www.go.ncsu.edu/mbabb).
 -   C++: used for numerical optimization and other performance critical applications.
+-   Distributed and serverless applications (primarily moderately traversed ETL pipelines), deployed and using CI//CD with Terraform, powered by AWS.
+-   Vue3 coupled with state managment using Pinia.
 -   Apache2 + PHP + `.*`; for the server side of things.
 
 #### What I'm learning.
-
--   Several web-frameworks, primarily `React` and `Vue`.
--   Complier design and optimization 🛠.
 -   Immutable data structure implementations in both Python and C++.
     [link](https://github.com/mkbabb/immutable-vector)
--   Data collection and processing with AWS. Particularly with their Athena, Glue, and
-    Lambda services.
--   `node.js`, `nginx`, and other server-related things.
+-   High dimensional spatial data structures as trees, (KDTree, R-Tree, etc), implementation in Python.
+-   Teaching modalities using VEX Robotics' [VEXCode](https://vr.vex.com/) platform.
 
 _🎉Thanks to [@devicons](https://github.com/devicons) for the beautiful icons you see
 above!_
