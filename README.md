@@ -1,4 +1,4 @@
-<!-- <link rel="stylesheet" type="text/css" media="all" href="styles/styles.css" /> -->
+<link rel="stylesheet" type="text/css" media="all" href="styles/styles.css" />
 
 # Hi, I'm Mike.
 
@@ -6,13 +6,11 @@ I'm a data scientist, programmer, and teacher at
 [@TheFridayInstitute](https://github.com/TheFridayInstitute) |
 [The Friday Institute](https://www.fi.ncsu.edu/) 🐺.
 
-My current project(s') focus is on distributed data collection and the analysis thereof.
+My current projects' focus is on distributed data collection and the analysis thereof.
 
 ### What I'm using.
 
 #### What I'm experienced with.
-
-&nbsp;
 
 <div>
     <img src="https://raw.githubusercontent.com/mkbabb/mkbabb/master/assets/icons/python/python-original.svg" height="64"/>
@@ -41,7 +39,8 @@ My current project(s') focus is on distributed data collection and the analysis 
 -   Python in conjunction with various data science libraries such as Pandas, GeoPandas,
     Numpy, SQLAlchemy, etc.
 -   GUI-based data manipulation, by way of Tableau 📊, Matplotlib, or the Google Suite
-    of tools 📑.
+    of tools 📑. Take a look at my Google API:
+    [`googleapiutils2`](https://github.com/mkbabb/googleapiutils2).
 -   Database technologies: MySQL 🐬, SQLite, Postgres.
 -   TypeScript: see a sample of this by our speedtest ⏱app here:
     [`go.ncsu.edu/mbabb`](https://www.go.ncsu.edu/mbabb)
@@ -55,11 +54,13 @@ My current project(s') focus is on distributed data collection and the analysis 
 
 #### What I'm learning.
 
--   Immutable data structure implementations in both Python and C++.
-    [link](https://github.com/mkbabb/immutable-vector)
+-   A multidimensional array library with a focus on readability and pedagogy.
+    Implements a novel FFT algorithm leveraging this.
 -   High dimensional spatial data structures (KDTree, R-Tree, etc), implemented in
     Python.
 -   Teaching modalities using VEX Robotics' [VEXCode](https://vr.vex.com/) platform.
+-   Immutable data structure implementations in both Python and C++.
+    [link](https://github.com/mkbabb/immutable-vector)
 
 _🎉Thanks to [@devicons](https://github.com/devicons) for the beautiful icons you see
 above!_
