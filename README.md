@@ -27,7 +27,7 @@ I also like math and programming languages. Checkout my
 
 ### Gallery
 
-Try my speedtest ⏱app here: [`go.ncsu.edu/mbabb`](https://www.go.ncsu.edu/mbabb)
+Try my speedtest ⏱ app here: [`go.ncsu.edu/mbabb`](https://www.go.ncsu.edu/mbabb)
 
 Or my sudoku application, an implementation of a generalized CSP solver, at
 [`go.ncsu.edu/sudoku`](https://www.go.ncsu.edu/sudoku). thx!
