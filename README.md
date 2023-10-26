@@ -1,17 +1,15 @@
 <link rel="stylesheet" type="text/css" media="all" href="styles/styles.css" />
 
 # Hi, I'm Mike ![image](assets/cube.png)
-
 I'm a data scientist, programmer, and teacher at
 [@TheFridayInstitute](https://github.com/TheFridayInstitute) 🐺.
 
-My current projects' focus is on distributed data collection and the analysis thereof.
+The focus of my current projects is on distributed data collection and the analysis thereof.
 
 I also like math and programming languages. Checkout my
 [cube](https://mkbabb.github.io/keyframes.js/) btw.
 
-### What I'm working on.
-
+### What I'm working on
 -   Languages and parsers: see my parser combinator, and parser generator, library
     [`parse-that`](https://github.com/mkbabb/parse-that). Implements my meta-grammar
     language, [`BBNF`](https://github.com/mkbabb/bbnf-language-support)
@@ -26,7 +24,6 @@ I also like math and programming languages. Checkout my
     -   Implements a novel FFT algorithm leveraging this.
 
 ### Gallery
-
 Try my speedtest ⏱ app here: [`go.ncsu.edu/mbabb`](https://www.go.ncsu.edu/mbabb)
 
 Or my sudoku application, an implementation of a generalized CSP solver, at
