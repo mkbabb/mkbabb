@@ -18,6 +18,7 @@ I also like math and programming languages. Checkout my
     library to tween anything. [cubege](https://mkbabb.github.io/keyframes.js/).
 -   [`googleapiutils2`](https://github.com/mkbabb/googleapiutils2), a Google API wrapper
     for Python, focused on usability and performance.
+-   [`qualtrics-utils`](https://github.com/mkbabb/qualtrics-utils), a Qualtrics API wrapper for Python.
 -   Further development of genetic algorithms for usage in partitioning and scheduling
     problems.
 -   A multidimensional array library with a focus on readability and pedagogy.
