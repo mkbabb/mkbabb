@@ -1,13 +1,13 @@
 <link rel="stylesheet" type="text/css" media="all" href="styles/styles.css" />
 
 # Hi, I'm Mike ![image](assets/cube.png)
-I'm a data scientist, programmer, and teacher at
+I'm software engineer at
 [@TheFridayInstitute](https://github.com/TheFridayInstitute) 🐺.
 
 The focus of my current projects is on distributed data collection and the analysis thereof.
 
 I also like math and programming languages. Checkout my
-[cube](https://mkbabb.github.io/keyframes.js/) btw.
+[cube](https://mkbabb.github.io/keyframes.js/)
 
 ### What I'm working on
 -   Languages and parsers: see my parser combinator, and parser generator, library
