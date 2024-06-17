@@ -7,7 +7,7 @@ I'm software engineer at
 The focus of my current projects is on distributed data collection and the analysis thereof.
 
 I also like math and programming languages. Checkout my
-[cube](https://mkbabb.github.io/keyframes.js/)
+[cube](https://mkbabb.github.io/keyframes.js/).
 
 ### What I'm working on
 -   Languages and parsers: see my parser combinator, and parser generator, library
@@ -18,9 +18,7 @@ I also like math and programming languages. Checkout my
     library to tween anything. [cubege](https://mkbabb.github.io/keyframes.js/).
 -   [`googleapiutils2`](https://github.com/mkbabb/googleapiutils2), a Google API wrapper
     for Python, focused on usability and performance.
--   [`qualtrics-utils`](https://github.com/mkbabb/qualtrics-utils), a Qualtrics API wrapper for Python.
--   Further development of genetic algorithms for usage in partitioning and scheduling
-    problems.
+-   [`genetic-optimization`](https://github.com/mkbabb/genetic-optimization), a tried and tested genetic optimization library, written in Rust.
 -   A multidimensional array library with a focus on readability and pedagogy.
     -   Implements a novel FFT algorithm leveraging this.
 
