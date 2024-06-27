@@ -2,12 +2,9 @@
 
 # Hi, I'm Mike ![image](assets/cube.png)
 I'm software engineer at
-[@TheFridayInstitute](https://github.com/TheFridayInstitute) 🐺.
+[@TheFridayInstitute](https://github.com/TheFridayInstitute) 🐺
 
-The focus of my current projects is on distributed data collection and the analysis thereof.
-
-I also like math and programming languages. Checkout my
-[cube](https://mkbabb.github.io/keyframes.js/).
+I also like language, plants 🌱, medieval studies, and playing the piano 🎹
 
 ### What I'm working on
 -   Languages and parsers: see my parser combinator, and parser generator, library
@@ -23,7 +20,8 @@ I also like math and programming languages. Checkout my
     -   Implements a novel FFT algorithm leveraging this.
 
 ### Gallery
-Try my speedtest ⏱ app here: [`go.ncsu.edu/mbabb`](https://www.go.ncsu.edu/mbabb)
+- speedtest used by the state of NC for broadband analysis: [`go.ncsu.edu/mbabb`](https://www.go.ncsu.edu/mbabb)
+- sudoku, an implementation of my generalized CSP solver: [`go.ncsu.edu/sudoku`](https://www.go.ncsu.edu/sudoku).
+- [cubege](https://mkbabb.github.io/keyframes.js/)
 
-Or my sudoku application, an implementation of a generalized CSP solver, at
-[`go.ncsu.edu/sudoku`](https://www.go.ncsu.edu/sudoku). thx!
+thx!
