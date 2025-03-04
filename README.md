@@ -4,7 +4,7 @@
 I'm software engineer at
 [@TheFridayInstitute](https://github.com/TheFridayInstitute) 🐺
 
-I also like language, plants 🌱, medieval studies, and playing the piano 🎹
+I also like language, plants 🌱, medieval literature, piano 🎹, and ballet 🩰
 
 ### What I'm working on
 -   Languages and parsers: see my parser combinator, and parser generator, library
@@ -17,7 +17,7 @@ I also like language, plants 🌱, medieval studies, and playing the piano 🎹
     for Python, focused on usability and performance.
 -   [`genetic-optimization`](https://github.com/mkbabb/genetic-optimization), a tried and tested genetic optimization library, written in Rust.
 -   A multidimensional array library with a focus on readability and pedagogy.
-    -   Implements a novel FFT algorithm leveraging this.
+    -   Implements a novel multidimensional FFT algorithm leveraging this.
 
 ### Gallery
 - speedtest used by the state of NC for broadband analysis: [`go.ncsu.edu/mbabb`](https://www.go.ncsu.edu/mbabb)
