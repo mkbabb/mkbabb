@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="styles/styles.css" />
 
 # Hi, I'm Mike ![image](assets/cube.png)
-I'm software engineer at
+I'm a software engineer at
 [@TheFridayInstitute](https://github.com/TheFridayInstitute) 🐺
 
 I also like language, plants 🌱, medieval literature, piano 🎹, and ballet 🩰
