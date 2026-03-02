@@ -27,6 +27,6 @@ I also like language, plants 🌱, medieval literature, piano 🎹, and ballet �
 -   [`value.js`](https://github.com/mkbabb/value.js) — CSS-like value parsing and interpolation for JavaScript. Core of [`keyframes.js`](https://github.com/mkbabb/keyframes.js).
 -   [`googleapiutils2`](https://github.com/mkbabb/googleapiutils2) — Google API wrapper for Python, focused on usability and performance.
 -   [`genetic-optimization`](https://github.com/mkbabb/genetic-optimization) — genetic optimization library, written in Rust.
--   [`mdarray`](https://github.com/mkbabb/mdarray) — pure-Python N-dimensional array library (zero runtime deps). Strided hypercube memory layout, NumPy-compatible broadcasting, mixed-radix FFT engine with hypercube dimensional gliding (stride-based fiber extraction along each axis — no reshaping or intermediate buffers), Bluestein's chirp-z for prime lengths, and basic linear algebra (LU, QR, inverse, solve).
+-   [`mdarray`](https://github.com/mkbabb/mdarray) — `M`-dimensional array library with a mixed-radix FFT engine with stride-based fiber extraction along each axis, including Bluestein's chirp-z for prime lengths >=16.
 
 > thx!
