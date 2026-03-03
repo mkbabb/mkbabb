@@ -16,17 +16,18 @@ I also like language, plants 🌱, medieval literature, piano 🎹, and ballet �
 
 ### What I'm working on
 
-#### Language tools
+#### Language panoply
 -   [`parse-that`](https://github.com/mkbabb/parse-that) — parser combinator library for TypeScript and Rust.
 -   [`bbnf-lang`](https://github.com/mkbabb/bbnf-lang) — BBNF grammar ecosystem: parser, proc-macro codegen, LSP, VS Code extension, prettier plugin.
 -   [`gorgeous`](https://github.com/mkbabb/gorgeous) — grammar-driven pretty-printers, auto-generated from BBNF grammars. Built-in JSON, CSS, EBNF, BNF, BBNF + JIT compilation from arbitrary grammars.
 -   [`pprint`](https://github.com/mkbabb/pprint) — Wadler-Lindig pretty-printing library for Rust, with `#[derive(Pretty)]`.
 
-#### Libraries
+#### Libraries, tools, and papers
 -   [`keyframes.js`](https://github.com/mkbabb/keyframes.js) — CSS keyframe animation library to tween anything. [cubege](https://keyframes.babb.dev).
 -   [`value.js`](https://github.com/mkbabb/value.js) — CSS-like value parsing and interpolation for JavaScript. Core of [`keyframes.js`](https://github.com/mkbabb/keyframes.js).
 -   [`googleapiutils2`](https://github.com/mkbabb/googleapiutils2) — Google API wrapper for Python, focused on usability and performance.
 -   [`genetic-optimization`](https://github.com/mkbabb/genetic-optimization) — genetic optimization library, written in Rust.
--   [`mdarray`](https://github.com/mkbabb/mdarray) — `M`-dimensional array library with a mixed-radix FFT engine with stride-based fiber extraction along each axis, including Bluestein's chirp-z for prime lengths >=16.
+-   [`mdarray`](https://github.com/mkbabb/mdarray) — `M`-dimensional array library with a mixed-radix FFT engine with stride-based fiber extraction along each axis.
+-   [`fourier_analysis`](https://github.com/mkbabb/fourier_analysis) - Introductory paper, with appurtenant code, to Fourier analysis; view through two lens': linear algebra and complex analysis. Figures generated programmatically, with epicycles and Fourier series approximations visualized thereof.
 
 > thx!
