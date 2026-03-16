@@ -8,7 +8,7 @@ I like maffs.
 
 ### Gallery
 - [`fourier-analysis`](https://github.com/mkbabb/fourier-analysis) <img src="assets/epicycles.svg" width="30" style="vertical-align: middle"> — Fourier analysis through linear algebra, complex analysis, and more. Paper, Python library, and [interactive epicycle demo](https://fourier.babb.dev).
-- [`css keyframes`](https://keyframes.babb.dev) <img src="assets/cube.png" style="vertical-align: middle"> — CSS keyframe animation playground.
+- [`css keyframes`](https://keyframes.babb.dev) <img src="assets/cube-2.png" style="vertical-align: middle"> — CSS keyframe animation playground.
 - [`color picker`](https://color.babb.dev) <img src="assets/color-picker.svg" width="30" style="vertical-align: middle"> supporting `RGB`, `HSV`, `Lab`, `OKLch`, `XYZ`, & c.
 - [`bbnf playground`](https://grammar.babb.dev) <img src="assets/bbnf-small.png" width="30" style="vertical-align: middle">  — WASM-based, fully-featured LSP playground for my BBNF grammar ecosystem: live editing and visualization of parse trees; auto-formatting with [`gorgeous`](https://github.com/mkbabb/gorgeous), and more.
 - [`sudouku`](https://sudoku.babb.dev) <img src="assets/sudoku.svg" width="30" style="vertical-align: middle"> — implementation of my generalized CSP solver.
