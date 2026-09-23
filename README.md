@@ -2,7 +2,7 @@
 
 # Hi, I'm Mike <img src="assets/cube.png" style="vertical-align: middle">
 
-I like maffs.
+I like math and words!!
 
 ---
 
